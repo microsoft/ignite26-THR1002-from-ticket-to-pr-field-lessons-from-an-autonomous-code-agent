@@ -1,10 +1,10 @@
 # Docs
 
-<!-- IGNITE TEMPLATE PLACEHOLDER: remove this folder when the session needs no additional documentation. -->
+Reference material for THR1002.
 
-Use this folder for supporting documentation such as reference material and
-architecture/context.
-
-If this repository intentionally uses MkDocs or another docs-site pattern,
-attendee instructions can remain here. Link the attendee entry point clearly
-from the root README.
+| Document | What's inside |
+|----------|---------------|
+| [How it works](how-it-works.md) | The Grill → Coding → Code Review flow, step by step, and where people stay in the loop |
+| [Architecture](architecture.md) | How Azure DevOps, the bot instances, Microsoft Teams, and Microsoft Foundry connect |
+| [Field lessons](field-lessons.md) | Production numbers, what we learned, and what I recommend |
+| [Articles and videos](community-content.md) | Related deep dives on GitHub Copilot agents, Microsoft Foundry, MCP, and A2A |

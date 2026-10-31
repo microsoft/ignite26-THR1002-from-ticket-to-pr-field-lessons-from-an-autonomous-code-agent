@@ -135,10 +135,10 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
             <sub>Cloud Developer Advocate · Microsoft MVP</sub><br />
             <sub><a href="https://www.azurebrasil.cloud/">AzureBrasil.cloud</a></sub><br /><br />
             <sub>
-              🌐 <a href="https://tallesvaliatti.com">Website</a> ·
-              💼 <a href="https://www.linkedin.com/in/tallesvaliatti">LinkedIn</a><br />
-              🐙 <a href="https://github.com/TallesValiatti">GitHub</a> ·
-              ▶️ <a href="https://www.youtube.com/@azurebrasilcloud">YouTube</a>
+              <a href="https://tallesvaliatti.com">Website</a> ·
+              <a href="https://www.linkedin.com/in/tallesvaliatti">LinkedIn</a> ·
+              <a href="https://github.com/TallesValiatti">GitHub</a> ·
+              <a href="https://www.youtube.com/@azurebrasilcloud">YouTube</a>
             </sub>
     </td>
 </tr></table>

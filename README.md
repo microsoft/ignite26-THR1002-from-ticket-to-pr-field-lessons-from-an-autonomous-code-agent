@@ -132,8 +132,12 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
     <td align="center"><a href="https://github.com/TallesValiatti">
         <img src="https://github.com/TallesValiatti.png" width="100px;" alt="Talles Valiatti"/><br />
         <sub><b>Talles Valiatti</b></sub></a><br />
-            <a href="https://github.com/TallesValiatti" title="talk">📢</a><br />
-            <sub><a href="https://www.azurebrasil.cloud/">AzureBrasil.cloud</a></sub>
+            <sub>Cloud Developer Advocate · Microsoft MVP</sub><br />
+            <sub><a href="https://www.azurebrasil.cloud/">AzureBrasil.cloud</a></sub><br /><br />
+            <a href="https://tallesvaliatti.com"><img src="https://img.shields.io/badge/Website-tallesvaliatti.com-0078D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+            <a href="https://www.linkedin.com/in/tallesvaliatti"><img src="https://img.shields.io/badge/LinkedIn-tallesvaliatti-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+            <a href="https://github.com/TallesValiatti"><img src="https://img.shields.io/badge/GitHub-TallesValiatti-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+            <a href="https://www.youtube.com/@azurebrasilcloud"><img src="https://img.shields.io/badge/YouTube-@azurebrasilcloud-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
     </td>
 </tr></table>
 
